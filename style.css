@@ -1,0 +1,49 @@
+#apps {
+    width: 100%;
+    height:auto;
+    background-color: darkcyan ;
+}
+
+.container
+{
+    text-align: center;
+}
+
+a
+{
+	text-align: center;
+}
+
+.line
+{
+	width: 100px;
+	height: 5px;
+	background-color: black;
+	margin:auto;
+}
+
+.O
+{
+	background-color: beige;
+}
+
+img
+{
+    transition:transform .2s;
+}
+
+img:hover
+{
+    transform: scale(0.9);
+}
+
+body
+{
+	background-color: black;
+	color: yellow;
+}
+
+.P
+{
+	background-color:cadetblue;
+}
